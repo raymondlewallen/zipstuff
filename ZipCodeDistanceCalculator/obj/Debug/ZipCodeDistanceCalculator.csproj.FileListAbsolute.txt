@@ -1,0 +1,12 @@
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\ZipCodeDistanceCalculator.exe.config
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\ZipCodeDistanceCalculator.exe
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\ZipCodeDistanceCalculator.pdb
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\MongoDB.Bson.dll
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\MongoDB.Driver.Core.dll
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\MongoDB.Driver.dll
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\MongoDB.Bson.xml
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\MongoDB.Driver.xml
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\bin\Debug\MongoDB.Driver.Core.xml
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\obj\Debug\ZipCodeDistanceCalculator.csprojResolveAssemblyReference.cache
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\obj\Debug\ZipCodeDistanceCalculator.exe
+C:\work\ZipCodeDistanceCalculator\ZipCodeDistanceCalculator\obj\Debug\ZipCodeDistanceCalculator.pdb
